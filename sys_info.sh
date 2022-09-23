@@ -1,5 +1,6 @@
 #!/bin/bash
 # Program to output a system information page
+title = "System Information Report"
 echo "<html>"
 echo "  <head>"
 echo "       <title>System Information Report Page Title</title>"
